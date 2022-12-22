@@ -74,7 +74,7 @@ namespace ProyectoFinal
             } while (correr == true);
 
             Console.WriteLine("\nEl dinero en caja es: " + ventasTotales);
-            Console.WriteLine("\nMatricula: " +
+            Console.WriteLine("\nMatricula: 16–sin-1-173" +
                 "\nNombre: Felix Mateo");
 
         }
